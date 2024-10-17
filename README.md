@@ -7,7 +7,7 @@ O frontend da aplicação foi desenvolvido com Angular e o backend foi simulado 
 Acesse a aplicação: 
 
 ## Protótipo
-
+link do figma: https://www.figma.com/design/tHAa2BxIntoJO1cznDu1rN/Untitled?t=9TetjkrVtwa9LGEU-1
 
 
 ## Checklist de Requisitos
